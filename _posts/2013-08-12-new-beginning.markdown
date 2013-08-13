@@ -1,0 +1,28 @@
+---
+layout: post
+title: A New Beginning
+category: posts
+---
+
+This is definitely the start of something new and fun.  I have so many ideas and was once
+told that only a fool wouldn't write their ideas down and share them with the world.  So,
+this is the start of that.  I am starting this off by just introducing myself.  My name
+is Stephen Lu.  I am currently a Pipeline Tools Technical Director at Reel FX Animation
+Studios.  I am currently located in Dallas and loving the journey I am on.  I am constantly
+driving to learn more and share the knowledge I have found.  I have been always looking
+at new opportunities and hope to share my journey with other people.  I also look to inspire
+those wanting to be in the film/visual effects industry that are just starting out.
+
+One thing I know is that it can be very daunting to try to get into this industry.  There
+is so much to learn, and so many things for one person to partake.  I will tell you now
+that though you may sometimes not feel sufficient enough to undergo something as big as
+this industry is, you have to keep your head up and know that your passion and motivation
+will be the driving force through this.  So with that, I will hope to bring any knowledge
+I learn to help better this generation all around us.  Let the battle begin!
+
+---
+
+If you have any questions, follow and ping me on Twitter- I'm
+[twitter].
+
+[twitter]: https://twitter.com/stephenmunklu
