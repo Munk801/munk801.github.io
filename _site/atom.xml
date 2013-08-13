@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Zach Holman</title>
- <link href="http://zachholman.com/atom.xml" rel="self"/>
- <link href="http://zachholman.com/"/>
- <updated>2013-08-12T21:48:20-05:00</updated>
- <id>http://zachholman.com</id>
+ <title>Stephen Lu</title>
+ <link href="munk801.github.io/atom.xml" rel="self"/>
+ <link href="munk801.github.io/"/>
+ <updated>2013-08-12T22:28:47-05:00</updated>
+ <id>munk801.github.io</id>
  <author>
-   <name>Zach Holman</name>
+   <name>Stephen Lu</name>
  </author>
  
  
  <entry>
    <title>Left</title>
-   <link href="http://zachholman.com/posts/left"/>
-   <updated>2012-12-12T00:00:00-06:00</updated>
-   <id>http://zachholman.com/posts/left</id>
-   <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+   <link href="munk801.github.io/posts/new-beginning"/>
+   <updated>2013-08-12T00:00:00-05:00</updated>
+   <id>munk801.github.io/posts/new-beginning</id>
+   <content type="html">&lt;p&gt;This is definitely the start of something new and fun.  I have so many ideas and was once
+told that only a fool wouldn&amp;rsquo;t write their ideas down and share them with the world.  So,
+this is the start of that.  I am starting this off by just introducing myself.  My name
+is Stephen Lu.  I am currently a Pipeline Tools Technical Director at Reel FX Animation
+Studios.  I am currently located in Dallas and loving the journey I am on.  I am constantly
+driving to learn more and share the knowledge I have found.  I have been always looking
+at new opportunities and hope to share my journey with other people.  I also look to inspire
+those wanting to be in the film/visual effects industry that are just starting out.&lt;/p&gt;
 
-&lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
-extracted from &lt;a href=&quot;http://zachholman.com&quot;&gt;zachholman.com&lt;/a&gt;, which means it was battle-hardened from
-years of posting serious blog posts about emoji and swear words.&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;re actually reading an example post right now. See how cool it is? Oh, be
-quiet, you&amp;rsquo;re making me blush.&lt;/p&gt;
+&lt;p&gt;One thing I know is that it can be very daunting to try to get into this industry.  There
+is so much to learn, and so many things for one person to partake.  I will tell you now
+that though you may sometimes not feel sufficient enough to undergo something as big as
+this industry is, you have to keep your head up and know that your passion and motivation
+will be the driving force through this.  So with that, I will hope to bring any knowledge
+I learn to help better this generation all around us.  Let the battle begin!&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;You&amp;rsquo;ll want to &lt;a href=&quot;https://github.com/holman/left#readme&quot;&gt;get the code&lt;/a&gt; and read the README to learn how to
-install and set up Left for your own purposes.&lt;/p&gt;
-
 &lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;rsquo;m
-&lt;a href=&quot;https://twitter.com/holman&quot;&gt;@holman&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
