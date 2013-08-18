@@ -4,12 +4,41 @@
  <title>Stephen Lu</title>
  <link href="munk801.github.io/atom.xml" rel="self"/>
  <link href="munk801.github.io/"/>
- <updated>2013-08-12T22:36:04-05:00</updated>
+ <updated>2013-08-17T19:27:43-05:00</updated>
  <id>munk801.github.io</id>
  <author>
    <name>Stephen Lu</name>
  </author>
  
+ 
+ <entry>
+   <title>What is a TD?</title>
+   <link href="munk801.github.io/posts/what-is-a-td"/>
+   <updated>2013-08-17T00:00:00-05:00</updated>
+   <id>munk801.github.io/posts/what-is-a-td</id>
+   <content type="html">&lt;p&gt;I always have conversations with friends and strangers.  One of the questions that always seem to arise is &amp;ldquo;What is a Technial Director?&amp;rdquo;.
+I am sure you may be asking yourself the same question and to be honest, there is a lot of generality when looking at the name Technical Director.
+Now I am speaking not as a veteran in the industry but merely a student and recent TD which may help people better understand what a Technical Director
+is.&lt;/p&gt;
+
+&lt;p&gt;First, you may hear this term and immediately put it up in the role of a &amp;ldquo;director&amp;rdquo;.  Though the status of a TD may not be quite up there in the
+industry ladder, the idea is fairly similar.  Just as a director makes decisions and chooses the paths the film decides to take, a TD&amp;rsquo;s role involves
+making decisions and choosing the path of the technical workflow.  Now, this role can vary to different specifications.  I will talk mainly about
+the TD aspect in the pipeline development as I have most knowledge in this area.&lt;/p&gt;
+
+&lt;p&gt;As a friend and co-worker once said, a TD&amp;rsquo;s role is to make the lives of everyone else in the production easier.  Just as technology improves the
+workflow of our lives, so must our roles as TDs improve the workflow of the studio.  Now a question that make come up is how do we improve the workflow?
+There are many things that are involved to improving the workflow of the artist, the studio, and ourselves as TDs.&lt;/p&gt;
+
+&lt;p&gt;I will talk in my future posts about things that I have learend that I either wished I learned earlier or know will be useful in any case for any
+aspiring TDs out there looking to fulfill their dream and create.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;rsquo;m
+&lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A New Beginning</title>
