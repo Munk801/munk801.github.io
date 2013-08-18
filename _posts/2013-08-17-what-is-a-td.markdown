@@ -1,0 +1,29 @@
+---
+layout: post
+title: What is a TD?
+category: posts
+---
+
+I always have conversations with friends and strangers.  One of the questions that always seem to arise is "What is a Technial Director?".
+I am sure you may be asking yourself the same question and to be honest, there is a lot of generality when looking at the name Technical Director.
+Now I am speaking not as a veteran in the industry but merely a student and recent TD which may help people better understand what a Technical Director
+is.
+
+First, you may hear this term and immediately put it up in the role of a "director".  Though the status of a TD may not be quite up there in the 
+industry ladder, the idea is fairly similar.  Just as a director makes decisions and chooses the paths the film decides to take, a TD's role involves
+making decisions and choosing the path of the technical workflow.  Now, this role can vary to different specifications.  I will talk mainly about
+the TD aspect in the pipeline development as I have most knowledge in this area.
+
+As a friend and co-worker once said, a TD's role is to make the lives of everyone else in the production easier.  Just as technology improves the 
+workflow of our lives, so must our roles as TDs improve the workflow of the studio.  Now a question that make come up is how do we improve the workflow?
+There are many things that are involved to improving the workflow of the artist, the studio, and ourselves as TDs.
+
+I will talk in my future posts about things that I have learend that I either wished I learned earlier or know will be useful in any case for any
+aspiring TDs out there looking to fulfill their dream and create.
+
+---
+
+If you have any questions, follow and ping me on Twitter- I'm
+[twitter].
+
+[twitter]: https://twitter.com/stephenmunklu
