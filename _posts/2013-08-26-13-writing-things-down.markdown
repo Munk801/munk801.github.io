@@ -1,0 +1,30 @@
+---
+layout: post
+title: Writing Things Down
+category: posts
+---
+
+I have noticed a trend with writing things down going in two pathes.  The first path is the path which you write everything down and try to keep track of everything you write.
+The other is the exact counter-part which is not writing anything down in the mind that you find it hopeless since you will lose it anyways.  There are valid reasonings for
+both of these sort of methodologies to writing things down.  You may want to write everything down so you can keep track of all your information and make sure you don't
+lose track of any of your thoughts.  One big drawback to this is that you can lose yourself in this mental library of items without some sort of organization system.
+If you were to write down all your ideas and had no way of mentally mapping yourself back to this, why would you write things down?  Which brings forth the other end of
+the spectrum which is not writing anything down because you know you will lose track of it anyways.  Though another big drawback to something like this is forgetfulness.
+
+I have found that taking both aspects into one helps this process out quite a bit.  I like to call this moreso the "buddhist" mentality of writing things down.  This method
+involves always having some sort of writing tool handy.  Whether this be a pencil, pen, chalk, dry erase marker, crayola, etc.  The idea is the write down all your thoughts,
+so you have the information on "file".  The next thing would be to store the information that you know you need to store.  Now, for the rest of the information.  Take your
+time and really absorb that information.  Let the "phyical" nature of the thought be absorbed into your mind.  From there, that though is now with you and you no longer need
+that physical copy.  Toss it!
+
+The whole idea behind this is that writing this material down becomes more a form of self memory and allows you to organize your mind and thoughts.  This is where some thing such
+as a white board comes in handy because it was completely built on being erased.  Take advantage of the ability to write and the ability to write down all these great ideas.
+Use it more to sift through everything rather than to try and remember all the details on the paper.
+
+
+---
+
+If you have any questions, follow and ping me on Twitter- I'm
+[twitter].
+
+[twitter]: https://twitter.com/stephenmunklu
