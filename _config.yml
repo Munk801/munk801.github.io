@@ -3,11 +3,14 @@ pygments: true
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
-
-name: Stephen Lu
-url: munk801.github.io
-description: The start to something big!
-twitter: StephenMunkLu
-github: Munk801
-instagram: munkaliciouz
-gravatar_url: http://www.gravatar.com/avatar/9b96dbfa235cbf3aa0e30035654a5a06 
+title : Stephen Lu
+production_url : http://munk801.github.io
+description: "Ideas, Inspiration, Creativity, Tips, Tricks, and Guides on the development world and the life of a Technical Director."
+disqus_shortname: munk801
+analytics: UA-32899481-1
+gauges: 50f2b533613f5d7c8000000c
+author :
+  name : Stephen Lu
+  github : munk801
+  twitter : StephenMunkLu
+  email: munk801@gmail.com
