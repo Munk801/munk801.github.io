@@ -1,0 +1,51 @@
+---
+layout: post
+title: Create Small Goals to Improve
+category: personal
+---
+
+This is on a little bit of a personal note as well but I thought that it would be worth sharing.
+Right now is the beginning of the fall time and this is the time when people are beginning to go
+back to school and start up class again.  Now, I am currently out of school and working so this
+does not really affect me nearly as much as I am currently working but the timeline naturally
+fits to create some fall goals for myself.
+
+Whether you are in school or out of school, as a developer, it is a great idea to create term
+goals for yourself to help you accomplish things you seek to complete.  This is also a very
+important thing if you want to become a Technical Director, Artist, etc.
+
+One thing that I have learned being out of school and being in the work force for a little
+over a year, is that your "school" work doesn't prove to the companies out there that you
+are a competent worker and can fulfill yourself.  These are done through your personal
+projects and most of the efforts that you perform outside of school.
+
+As a technical director, the companies that I applied for were not asking me about my grades
+and what I learned in school.  They asked about some of the projects that I have worked on
+that involved communicating with a team and the roles that we played to create an effective
+environment for accomplishing a task.
+
+Now, this isn't to say that this can come from school as well.  When I interview with
+Rhythm & Hues for an opportunity as a pipeline technical director, my projects from my
+Scientific Visualization class really shined as much of it was python based and showed them
+that I can create tools to visualize data.  I was lucky enough to find a class where the
+professor gave us the freedom to create our own projects and own research to receive a
+grade.
+
+One thing I want to point out, is to not just do things for the grade.  The grade only lasts
+for the semester and won't take you much further.  The content, however, will take you much
+further.  If you are in a computer science class learning python and algorithms, why not
+take what you learn and create your own projects that visualize the algorithms?
+
+In turn, take some time to create a fall goal list that does not pertain directly to school
+work.  Look at your classes and try to look at how you can apply those into your personal
+projects.  If you are taking a programming languages course, why not create a lexical
+analyzer to analyze a toy language?
+
+
+
+---
+
+If you have any questions, follow and ping me on Twitter- I'm
+[twitter].
+
+[twitter]: https://twitter.com/stephenmunklu

@@ -1,0 +1,50 @@
+---
+layout: post
+title: Use Ideas to Challenge Your Learning
+category: Motivation
+---
+
+So there has been something that I have recently been getting into the habit of doing.
+I will be super motivated to want to do something and within an hour, write down ideas,
+plan out what I will be doing and how I will be doing it.  I will research as much as
+I can within that amount of time and really find all the determination I can to learn
+what I need to learn.  This will include bookmarking a million websites I think will be
+useful, finding all the books on the topic, and looking up all the tutorials I can.
+
+The problem that I face, which seems to be something a lot of people face, is that we create
+such a high benchmark for ourselves for this task we look to achieve, that we end up falling
+flat on our faces after no longer than a few weeks.
+
+After beating myself up countless times on making projects for myself and not keeping to
+my promise, I wanted to find the reason that we are not keeping ourselves going.  I am going
+to start with the learning.
+
+One thing that I have noticed a trend in is that a lot of projects has some learning
+involved.  Whether this be learning a new programming language for your particular task,
+a framework which is involved with your project, a customer base in which you want your project
+to target, there is always some new type of learning that is involved with this.  Now, the question
+comes to why can't we follow through with the learning to accomplish this task?
+
+I find that we can't learn these things because of the initial project we start off with.
+Some of us are so ambitious to create the next big thing or to do something of such large scale,
+that internally deters us away from ever reaching our goal.  If you were looking to pick up something
+like running, you wouldn't immediately goal yourself to olympic levels would you?  Or if you are looking
+to pick up rock climbing, you wouldn't goal yourself to the hardest climb you can find.  I mean, sure
+that is a future goal that we often look to find, but it isn't something that should immediately be
+driving us to learn what it is we need to learn.
+
+We need to start with a very small project.  Something that would be both satisfying and give you
+that feeling of accomplishment.  Let us remember that we are in the state of "learning" still.  This
+is the time we can take to enjoy the information we are receiving and having this small project will
+be the motivational factor that keeps us going.  As a runner, seeking to run a target set in a certain
+amount of time.  As a rock climber, finding a decent route that you cannot initially do but can goal
+towards.  As a developer, taking a small prjoect or even a small subset of your ambitious project
+and using that to boost your learning.
+
+
+---
+
+If you have any questions, follow and ping me on Twitter- I'm
+[twitter].
+
+[twitter]: https://twitter.com/stephenmunklu
