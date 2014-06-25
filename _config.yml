@@ -1,16 +1,26 @@
-markdown: rdiscount
-pygments: true
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
-title : Stephen Lu
-production_url : http://munk801.github.io
-description: "Ideas, Inspiration, Creativity, Tips, Tricks, and Guides on the development world and the life of a Technical Director."
-disqus_shortname: munk801
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
-author :
-  name : Stephen Lu
-  github : munk801
-  twitter : StephenMunkLu
-  email: munk801@gmail.com
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Coding State of Mind
+tagline:          Link between Creativity and Code
+url:              munk801@github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Stephen Lu
+  url:            https://twitter.com/StephenMunkLu
+  email:          munk801@gmail.com
+
+About: '/about'
+Archive: '/archive'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/Munk801
+
