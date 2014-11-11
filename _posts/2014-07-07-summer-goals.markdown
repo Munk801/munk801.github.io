@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Summer Goals
 category: Motivation
 ---

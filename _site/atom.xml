@@ -1,37 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>The Coding State of Mind</title>
- <link href="munk801@github.io/atom.xml" rel="self"/>
- <link href="munk801@github.io/"/>
- <updated>2014-07-07T08:00:01-06:00</updated>
- <id>munk801@github.io</id>
- <author>
-   <name>Stephen Lu</name>
-   <email>munk801@gmail.com</email>
- </author>
+    
 
- 
- <entry>
-   <title>Summer Goals</title>
-   <link href="munk801@github.io//motivation/2014/07/07/summer-goals/"/>
-   <updated>2014-07-07T00:00:00-06:00</updated>
-   <id>munk801@github.io/motivation/2014/07/07/summer-goals</id>
-   <content type="html">&lt;p&gt;Things have finally come to a settling point.&lt;/p&gt;
+    <title>LineBreak</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.1</generator>
+		<icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+    <subtitle>Every new line has a purpose</subtitle>
+    <link href="http://localhost:4000/atom.xml" rel="self"/>
+    <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+    <updated>2014-11-10T23:08:02-08:00</updated>
+    <id>http://localhost:4000/</id>
+    <author>
+			<name>Stephen Lu</name>
+			<uri>http://localhost:4000/</uri>
+			<email>munk801@gmail.com</email>
+		</author>
 
-&lt;h2&gt;Munk&lt;/h2&gt;
+    
+    <entry>
+        <title>Moving to Swift and iOS</title>
+        <link href="http://localhost:4000/moving-to-swift-and-ios/"/>
+        <updated>2014-11-09T17:06:03-08:00</updated>
+        <id>http://localhost:4000/moving-to-swift-and-ios</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Summer Goals</title>
+        <link href="http://localhost:4000/motivation/summer-goals/"/>
+        <updated>2014-07-07T00:00:00-07:00</updated>
+        <id>http://localhost:4000/motivation/summer-goals</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Things have finally come to a settling point.  There comes a time in our lives
+where we are unsettled.  Whether this is a point of moving around, changing jobs,
+relationship changes or even just our whole view of our lives changing.  During
+this time, it becomes more of a challenge than ever to attempt to focus down
+and work and settle on doing the things you love.&lt;/p&gt;
+
+&lt;p&gt;For me, a lot of this hit me at around the same time.  My recent move back,
+sleeping on my friends couch for months, changing my living situation,
+working and gaining the trust of my fellow colleagues, has been nothing
+short of an enjoyable experience.  I never tell myself that I am having
+a hard time as I find my way to stride and enjoy everything currently
+in my life.&lt;/p&gt;
+
+&lt;p&gt;However, things have finally reached a point where I can’t be happier
+and can’t be more at a comfortable yet fighting position.  With myself
+finally settling down in a beautiful loft with a creative and close
+friend, this is as good as a time as any to really start pursuing my other
+passions and really work on the things that I love.  After listening to
+a new book called Essentialism, I have re-iterated in my mind that I need
+to keep my goals in my head and work on things I am passionate about.&lt;/p&gt;
+
+&lt;p&gt;Tagging system for text messaging
+Mobile game utilizing graphics concepts&lt;/p&gt;
+
+&lt;h2 id=&quot;munk&quot;&gt;Munk&lt;/h2&gt;
+
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Back in LA</title>
-   <link href="munk801@github.io//motivation/2014/03/18/back-in-la/"/>
-   <updated>2014-03-18T00:00:00-06:00</updated>
-   <id>munk801@github.io/motivation/2014/03/18/back-in-la</id>
-   <content type="html">&lt;p&gt;It has been a little over a month since my move back to LA and it has definitely been a challenging and
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Back in LA</title>
+        <link href="http://localhost:4000/motivation/back-in-la/"/>
+        <updated>2014-03-18T00:00:00-07:00</updated>
+        <id>http://localhost:4000/motivation/back-in-la</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;It has been a little over a month since my move back to LA and it has definitely been a challenging and
 fun journey.  But a little recap on what has happened the past few months.&lt;/p&gt;
 
 &lt;p&gt;I had recently taken a job at Blur Studio.  Blur Studio is what I would like to call the Pixar of game
@@ -41,21 +102,21 @@ Hues were my saviors in some way.  One of them being the one that actually decid
 bring me out to LA in the first place.  Another one who remembered me and gave me an opportunity to
 come back.&lt;/p&gt;
 
-&lt;p&gt;The crazy thing is that you don&amp;#39;t know how much you miss something until you get the opportunity to go
+&lt;p&gt;The crazy thing is that you don’t know how much you miss something until you get the opportunity to go
 back to it.  Now I had a decent job back in Dallas.  I was doing something that I loved and was moving
 towards something that I looked forward to.&lt;/p&gt;
 
 &lt;p&gt;However,  I realized a ton while I was in Dallas.  I learned that I was not nearly in the state I wanted
-to be in mentally.  I had put myself in somewhat of a depressed state.  And it wasn&amp;#39;t the fact of being
+to be in mentally.  I had put myself in somewhat of a depressed state.  And it wasn’t the fact of being
 there that put me in this depressed state.  It was me putting myself in this depressed state.  And
-I don&amp;#39;t mean state as in the region of the country.  Haha&lt;/p&gt;
+I don’t mean state as in the region of the country.  Haha&lt;/p&gt;
 
 &lt;p&gt;Well, after making this decision,  I said my goodbyes to all my friends there and packed everything I
 had and decided to mosey back to the land of stars.  I have to say, the first weekend of being back here
 made me happy beyond all measure.  To go back to even a few very close faces had changed my whole outlook
 on everything.&lt;/p&gt;
 
-&lt;p&gt;But being back here isn&amp;#39;t enough.  Well not to say that I am not grateful for being in such a great
+&lt;p&gt;But being back here isn’t enough.  Well not to say that I am not grateful for being in such a great
 position in my life where I can finally sustain myself and travel as the wind carries.  But I realize
 that my own mental state is still not in the place where I can be comfortable.  But hey, I would rather
 but comfortably uncomfortable and uncomfortably comfotable.&lt;/p&gt;
@@ -69,7 +130,7 @@ things in my life.&lt;/p&gt;
 
 &lt;p&gt;Now back to Blur.  The nature of the studio on its own has provided me with a whole new outlook of the work
 place.  Taking your frustration out with nerf guns and multiplayer quake is all but a good way to interact
-with your co workers.  But, also seeing the nature of a &amp;quot;smaller&amp;quot; studio perform is definitely a new
+with your co workers.  But, also seeing the nature of a “smaller” studio perform is definitely a new
 challenege.  Not only do you have to motivate yourself to challenge your own mind to bringing things
 to new boundaries, but you have to appreciate everyones own talent and know what they can bring to
 the table.  It is truly a great feeling.&lt;/p&gt;
@@ -77,102 +138,111 @@ the table.  It is truly a great feeling.&lt;/p&gt;
 &lt;p&gt;Well, this post is getting long enough so I will wind it down with some food for thought.  Also stay hungry
 and find your way to be comfortably uncomfortable.&lt;/p&gt;
 
-&lt;h2&gt;Munk&lt;/h2&gt;
+&lt;h2 id=&quot;munk&quot;&gt;Munk&lt;/h2&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>New Year</title>
-   <link href="munk801@github.io//motivation/2013/12/28/new-year/"/>
-   <updated>2013-12-28T00:00:00-07:00</updated>
-   <id>munk801@github.io/motivation/2013/12/28/new-year</id>
-   <content type="html">&lt;p&gt;This year has definitely been a crazy one.  It has treated itself similar to one of those epic roller coaster rides.i
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>New Year</title>
+        <link href="http://localhost:4000/motivation/new-year/"/>
+        <updated>2013-12-28T00:00:00-08:00</updated>
+        <id>http://localhost:4000/motivation/new-year</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;This year has definitely been a crazy one.  It has treated itself similar to one of those epic roller coaster rides.i
 While there are many things that I could have done but decided not to, I cannot help but appreciate everything that has
 happened in my life.  Good or bad, they have become footprints in my ever going life.  But now starts a new year and
 yet another path to create many more footprints to come.&lt;/p&gt;
 
-&lt;h2&gt;Reflection&lt;/h2&gt;
-
-&lt;h3&gt;Turning Point in LA&lt;/h3&gt;
-
-&lt;p&gt;My dream journey has been steadily moving along.  Though some of it may not completely be a dream, it is still a major
-footprint in my life.  Something major happened near the beginning of the year.  The company I was working for &amp;quot;Rhythm
-&amp;amp; Hues&amp;quot; declared bankruptcy and was forced to lay off hundreds of people.  This was a major impact not only within the
+&lt;h2 id=&quot;reflection&quot;&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;### Turning Point in LA
+My dream journey has been steadily moving along.  Though some of it may not completely be a dream, it is still a major
+footprint in my life.  Something major happened near the beginning of the year.  The company I was working for “Rhythm
+&amp;amp; Hues” declared bankruptcy and was forced to lay off hundreds of people.  This was a major impact not only within the
 company but also in the industry around the world.  This was a major sign that the business model behind visual effects
 was severely flawed and proved to everyone that this was the case.  A studio that just recently won an Oscar in visual
-effects for the movie &amp;quot;Life of Pi&amp;quot; was forced to close lose a lot of its talents because they did not have the sufficient
+effects for the movie “Life of Pi” was forced to close lose a lot of its talents because they did not have the sufficient
 funds to keep everything going.&lt;/p&gt;
 
 &lt;p&gt;Though I am still very much in my youth in the industry, this was a major eye opener to me to really see that what you
-see in school isn&amp;#39;t what truly happens within the industry.  While still in school, I saw this being such a lucrative
+see in school isn’t what truly happens within the industry.  While still in school, I saw this being such a lucrative
 industry and something I deeply wanted to commit to.  But after talking with many experts and veterans of the industry,
 I came to realize that though this is a very passionate industry, it does take its toll on you.&lt;/p&gt;
 
-&lt;p&gt;I was able to stay and help finish work on the deathly project known as &amp;quot;Percy Jackson and the Sea of Monsters&amp;quot;.  This
+&lt;p&gt;I was able to stay and help finish work on the deathly project known as “Percy Jackson and the Sea of Monsters”.  This
 project was already a nightmare for artists to begin with due to external conflicts.  And this complete revamp of artists
 and company did not help at all.  Though this was a difficult process, there was some minor light for me that I can
 always appreciate.  I received my first credit!  Being someone so new to the industry, a first credit is always a
 satisfying feeling.  Regardless of the movie, it signifies a lot to a person.  It reminds them all the hard work
 and emotions that went into being a part of something like this.&lt;/p&gt;
 
-&lt;h3&gt;From the Hollywood Star to the Lonely Star&lt;/h3&gt;
-
-&lt;p&gt;At this point, another opportunity came into play.  With the way things were working out in LA, things didn&amp;#39;t seem stable
+&lt;h3 id=&quot;from-the-hollywood-star-to-the-lonely-star&quot;&gt;From the Hollywood Star to the Lonely Star&lt;/h3&gt;
+&lt;p&gt;At this point, another opportunity came into play.  With the way things were working out in LA, things didn’t seem stable
 nor secure.  With everything in life, opportunities always come up.  This is where Reel FX comes into play.  They did a
 very good job at seeing the struggles R&amp;amp;H had and tried their best to bring people over to the lonely star.  I was one of
-those people.  With a new area, new company, and new production, this was an opportunity that I couldn&amp;#39;t miss.  Especially
+those people.  With a new area, new company, and new production, this was an opportunity that I couldn’t miss.  Especially
 being as young as I am, this was something that I had to experience.&lt;/p&gt;
 
 &lt;p&gt;One of the biggest drives to even coming here was the opportunity to help develop a brand new pipeline for production.
 This was something that was very appealing to me especially coming from a studio that has always had such a defined and
 stable pipeline.&lt;/p&gt;
 
-&lt;h2&gt;Goals&lt;/h2&gt;
-
-&lt;h3&gt;Career&lt;/h3&gt;
-
-&lt;p&gt;For the new year, I want to ensure that I am always pushing myself in my career in one fashion or another.  Never settling
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
+&lt;p&gt;### Career
+For the new year, I want to ensure that I am always pushing myself in my career in one fashion or another.  Never settling
 but also always appreciating.  I also need to remember why I wanted to be in this industry or why we are here.  We are here
 to put all our efforts into creating something amazing that can be shared and enjoyed by the world.&lt;/p&gt;
 
-&lt;h3&gt;Programming&lt;/h3&gt;
-
+&lt;h3 id=&quot;programming&quot;&gt;Programming&lt;/h3&gt;
 &lt;p&gt;For the year, I really want to dedicate a lot of my extra time creating something that can be shared with the world.  Creating
 something that can either be used or enjoyed by people.  The reason I love programming so much is that I am able to use my mind
 to solve a problem in the world and easily deploy the solution to the people.&lt;/p&gt;
 
-&lt;h3&gt;Dance&lt;/h3&gt;
-
+&lt;h3 id=&quot;dance&quot;&gt;Dance&lt;/h3&gt;
 &lt;p&gt;I realized that this past year was a very limiting time for me in terms of dance.  I know that I must remember to always be
 open to learning opportunties and take every opportunity out there to dance or learn from some of my idols.&lt;/p&gt;
 
-&lt;h3&gt;Helping the world&lt;/h3&gt;
-
+&lt;h3 id=&quot;helping-the-world&quot;&gt;Helping the world&lt;/h3&gt;
 &lt;p&gt;I really want to take some of my time to help those around us.  I am not entirely sure what the best way to do this is, but
 in order for us to lose that selfishness, we need to commit some time completely to others.&lt;/p&gt;
 
-&lt;h2&gt;Book List&lt;/h2&gt;
-
+&lt;h2 id=&quot;book-list&quot;&gt;Book List&lt;/h2&gt;
 &lt;p&gt;Thinking Fast and Slow - Daniel Kahneman
 David and Goliath - Malcom Gladwell
 Masters of Doom - David Kushner&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Vacation as Motivation</title>
-   <link href="munk801@github.io//motivation/2013/12/08/vacation-as-motivation/"/>
-   <updated>2013-12-08T00:00:00-07:00</updated>
-   <id>munk801@github.io/motivation/2013/12/08/vacation-as-motivation</id>
-   <content type="html">&lt;p&gt;So it is roughly a month away before I get a two week vacation to the beautiful country of Vietnam.
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Vacation as Motivation</title>
+        <link href="http://localhost:4000/motivation/vacation-as-motivation/"/>
+        <updated>2013-12-08T00:00:00-08:00</updated>
+        <id>http://localhost:4000/motivation/vacation-as-motivation</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;So it is roughly a month away before I get a two week vacation to the beautiful country of Vietnam.
 I have a lot of family there and it is always such a treat to be able to spend a few weeks without
 worrying about life and responsibilities.  Though I have a vacation coming up soon,  this gives
 me a new sense of motivation for vacations.  Some things that I realized is that I really need
@@ -193,24 +263,33 @@ on personal projects and learning new things so that I can have that sense of sa
 before I can give my mind the rest.  Think of it as that last strong push before resting.&lt;/p&gt;
 
 &lt;p&gt;An update to learning Ruby and Rails.  Things are going quite decently, even though I am not
-the biggest fan of rails structure of convention over configuration &amp;quot;The idea that if you follow
-a certain convention, you don&amp;#39;t have to do all the configuration yourself&amp;quot;.  I prefer having
+the biggest fan of rails structure of convention over configuration “The idea that if you follow
+a certain convention, you don’t have to do all the configuration yourself”.  I prefer having
 the control and knowledge of what I can do.  I hope to create some notes on some of the
-things I have learned coming from a python side.  Maybe a &amp;quot;Learn Ruby from the Python Side&amp;quot;.&lt;/p&gt;
+things I have learned coming from a python side.  Maybe a “Learn Ruby from the Python Side”.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Use Ideas to Challenge Your Learning</title>
-   <link href="munk801@github.io//motivation/2013/10/19/use-projects-to-challenge-learning/"/>
-   <updated>2013-10-19T00:00:00-06:00</updated>
-   <id>munk801@github.io/motivation/2013/10/19/use-projects-to-challenge-learning</id>
-   <content type="html">&lt;p&gt;So there has been something that I have recently been getting into the habit of doing.
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Use Ideas to Challenge Your Learning</title>
+        <link href="http://localhost:4000/motivation/use-projects-to-challenge-learning/"/>
+        <updated>2013-10-19T00:00:00-07:00</updated>
+        <id>http://localhost:4000/motivation/use-projects-to-challenge-learning</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;So there has been something that I have recently been getting into the habit of doing.
 I will be super motivated to want to do something and within an hour, write down ideas,
 plan out what I will be doing and how I will be doing it.  I will research as much as
 I can within that amount of time and really find all the determination I can to learn
@@ -229,37 +308,46 @@ to start with the learning.&lt;/p&gt;
 involved.  Whether this be learning a new programming language for your particular task,
 a framework which is involved with your project, a customer base in which you want your project
 to target, there is always some new type of learning that is involved with this.  Now, the question
-comes to why can&amp;#39;t we follow through with the learning to accomplish this task?&lt;/p&gt;
+comes to why can’t we follow through with the learning to accomplish this task?&lt;/p&gt;
 
-&lt;p&gt;I find that we can&amp;#39;t learn these things because of the initial project we start off with.
+&lt;p&gt;I find that we can’t learn these things because of the initial project we start off with.
 Some of us are so ambitious to create the next big thing or to do something of such large scale,
 that internally deters us away from ever reaching our goal.  If you were looking to pick up something
-like running, you wouldn&amp;#39;t immediately goal yourself to olympic levels would you?  Or if you are looking
-to pick up rock climbing, you wouldn&amp;#39;t goal yourself to the hardest climb you can find.  I mean, sure
-that is a future goal that we often look to find, but it isn&amp;#39;t something that should immediately be
+like running, you wouldn’t immediately goal yourself to olympic levels would you?  Or if you are looking
+to pick up rock climbing, you wouldn’t goal yourself to the hardest climb you can find.  I mean, sure
+that is a future goal that we often look to find, but it isn’t something that should immediately be
 driving us to learn what it is we need to learn.&lt;/p&gt;
 
 &lt;p&gt;We need to start with a very small project.  Something that would be both satisfying and give you
-that feeling of accomplishment.  Let us remember that we are in the state of &amp;quot;learning&amp;quot; still.  This
+that feeling of accomplishment.  Let us remember that we are in the state of “learning” still.  This
 is the time we can take to enjoy the information we are receiving and having this small project will
 be the motivational factor that keeps us going.  As a runner, seeking to run a target set in a certain
 amount of time.  As a rock climber, finding a decent route that you cannot initially do but can goal
 towards.  As a developer, taking a small prjoect or even a small subset of your ambitious project
 and using that to boost your learning.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Create Small Goals to Improve</title>
-   <link href="munk801@github.io//personal/2013/09/06/create-small-goals/"/>
-   <updated>2013-09-06T00:00:00-06:00</updated>
-   <id>munk801@github.io/personal/2013/09/06/create-small-goals</id>
-   <content type="html">&lt;p&gt;This is on a little bit of a personal note as well but I thought that it would be worth sharing.
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Create Small Goals to Improve</title>
+        <link href="http://localhost:4000/personal/create-small-goals/"/>
+        <updated>2013-09-06T00:00:00-07:00</updated>
+        <id>http://localhost:4000/personal/create-small-goals</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;This is on a little bit of a personal note as well but I thought that it would be worth sharing.
 Right now is the beginning of the fall time and this is the time when people are beginning to go
 back to school and start up class again.  Now, I am currently out of school and working so this
 does not really affect me nearly as much as I am currently working but the timeline naturally
@@ -270,7 +358,7 @@ goals for yourself to help you accomplish things you seek to complete.  This is 
 important thing if you want to become a Technical Director, Artist, etc.&lt;/p&gt;
 
 &lt;p&gt;One thing that I have learned being out of school and being in the work force for a little
-over a year, is that your &amp;quot;school&amp;quot; work doesn&amp;#39;t prove to the companies out there that you
+over a year, is that your “school” work doesn’t prove to the companies out there that you
 are a competent worker and can fulfill yourself.  These are done through your personal
 projects and most of the efforts that you perform outside of school.&lt;/p&gt;
 
@@ -279,7 +367,7 @@ and what I learned in school.  They asked about some of the projects that I have
 that involved communicating with a team and the roles that we played to create an effective
 environment for accomplishing a task.&lt;/p&gt;
 
-&lt;p&gt;Now, this isn&amp;#39;t to say that this can come from school as well.  When I interview with
+&lt;p&gt;Now, this isn’t to say that this can come from school as well.  When I interview with
 Rhythm &amp;amp; Hues for an opportunity as a pipeline technical director, my projects from my
 Scientific Visualization class really shined as much of it was python based and showed them
 that I can create tools to visualize data.  I was lucky enough to find a class where the
@@ -287,7 +375,7 @@ professor gave us the freedom to create our own projects and own research to rec
 grade.&lt;/p&gt;
 
 &lt;p&gt;One thing I want to point out, is to not just do things for the grade.  The grade only lasts
-for the semester and won&amp;#39;t take you much further.  The content, however, will take you much
+for the semester and won’t take you much further.  The content, however, will take you much
 further.  If you are in a computer science class learning python and algorithms, why not
 take what you learn and create your own projects that visualize the algorithms?&lt;/p&gt;
 
@@ -296,24 +384,33 @@ work.  Look at your classes and try to look at how you can apply those into your
 projects.  If you are taking a programming languages course, why not create a lexical
 analyzer to analyze a toy language?&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Bad Changes Can Turn Into Good Changes</title>
-   <link href="munk801@github.io//personal/2013/09/02/bad-changes-can-turn-into-good-change/"/>
-   <updated>2013-09-02T00:00:00-06:00</updated>
-   <id>munk801@github.io/personal/2013/09/02/bad-changes-can-turn-into-good-change</id>
-   <content type="html">&lt;p&gt;I am currently flying back from a trip to Salt Lake City and decided to post something
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Bad Changes Can Turn Into Good Changes</title>
+        <link href="http://localhost:4000/personal/bad-changes-can-turn-into-good-change/"/>
+        <updated>2013-09-02T00:00:00-07:00</updated>
+        <id>http://localhost:4000/personal/bad-changes-can-turn-into-good-change</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;I am currently flying back from a trip to Salt Lake City and decided to post something
 more of a personal thought.  I have had some stressful times as of recently and it has
 been something that has kept me more on my feet beyond anything.  It also has given me
 a realization about our drives and motivations.&lt;/p&gt;
 
-&lt;p&gt;We easily fall into a matter of &amp;quot;comfortablility&amp;quot; in which we are happy with what we
+&lt;p&gt;We easily fall into a matter of “comfortablility” in which we are happy with what we
 are given and therefore, lose that motivation to continue and pursue something bigger.&lt;/p&gt;
 
 &lt;p&gt;I am currently in the process of losing a relationship and a friend for the time being.
@@ -350,78 +447,105 @@ better for yourself.  We all fall into bad situations and even bad days.  Take t
 your mind away from the real world.  Go and work on your project.  Whether it be an art project, dance,
 programming task, financial ventures, etc.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Writing Things Down</title>
-   <link href="munk801@github.io//posts/2013/08/26/13-writing-things-down/"/>
-   <updated>2013-08-26T00:00:00-06:00</updated>
-   <id>munk801@github.io/posts/2013/08/26/13-writing-things-down</id>
-   <content type="html">&lt;p&gt;I have noticed a trend with writing things down going in two pathes.  The first path is the path which you write everything down and try to keep track of everything you write.
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>Writing Things Down</title>
+        <link href="http://localhost:4000/posts/13-writing-things-down/"/>
+        <updated>2013-08-26T00:00:00-07:00</updated>
+        <id>http://localhost:4000/posts/13-writing-things-down</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;I have noticed a trend with writing things down going in two pathes.  The first path is the path which you write everything down and try to keep track of everything you write.
 The other is the exact counter-part which is not writing anything down in the mind that you find it hopeless since you will lose it anyways.  There are valid reasonings for
-both of these sort of methodologies to writing things down.  You may want to write everything down so you can keep track of all your information and make sure you don&amp;#39;t
+both of these sort of methodologies to writing things down.  You may want to write everything down so you can keep track of all your information and make sure you don’t
 lose track of any of your thoughts.  One big drawback to this is that you can lose yourself in this mental library of items without some sort of organization system.
 If you were to write down all your ideas and had no way of mentally mapping yourself back to this, why would you write things down?  Which brings forth the other end of
 the spectrum which is not writing anything down because you know you will lose track of it anyways.  Though another big drawback to something like this is forgetfulness.&lt;/p&gt;
 
-&lt;p&gt;I have found that taking both aspects into one helps this process out quite a bit.  I like to call this moreso the &amp;quot;buddhist&amp;quot; mentality of writing things down.  This method
+&lt;p&gt;I have found that taking both aspects into one helps this process out quite a bit.  I like to call this moreso the “buddhist” mentality of writing things down.  This method
 involves always having some sort of writing tool handy.  Whether this be a pencil, pen, chalk, dry erase marker, crayola, etc.  The idea is the write down all your thoughts,
-so you have the information on &amp;quot;file&amp;quot;.  The next thing would be to store the information that you know you need to store.  Now, for the rest of the information.  Take your
-time and really absorb that information.  Let the &amp;quot;phyical&amp;quot; nature of the thought be absorbed into your mind.  From there, that though is now with you and you no longer need
+so you have the information on “file”.  The next thing would be to store the information that you know you need to store.  Now, for the rest of the information.  Take your
+time and really absorb that information.  Let the “phyical” nature of the thought be absorbed into your mind.  From there, that though is now with you and you no longer need
 that physical copy.  Toss it!&lt;/p&gt;
 
 &lt;p&gt;The whole idea behind this is that writing this material down becomes more a form of self memory and allows you to organize your mind and thoughts.  This is where some thing such
 as a white board comes in handy because it was completely built on being erased.  Take advantage of the ability to write and the ability to write down all these great ideas.
 Use it more to sift through everything rather than to try and remember all the details on the paper.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What is a TD?</title>
-   <link href="munk801@github.io//posts/2013/08/17/what-is-a-td/"/>
-   <updated>2013-08-17T00:00:00-06:00</updated>
-   <id>munk801@github.io/posts/2013/08/17/what-is-a-td</id>
-   <content type="html">&lt;p&gt;I always have conversations with friends and strangers.  One of the questions that always seem to arise is &amp;quot;What is a Technial Director?&amp;quot;.
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>What is a TD?</title>
+        <link href="http://localhost:4000/posts/what-is-a-td/"/>
+        <updated>2013-08-17T00:00:00-07:00</updated>
+        <id>http://localhost:4000/posts/what-is-a-td</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;I always have conversations with friends and strangers.  One of the questions that always seem to arise is “What is a Technial Director?”.
 I am sure you may be asking yourself the same question and to be honest, there is a lot of generality when looking at the name Technical Director.
 Now I am speaking not as a veteran in the industry but merely a student and recent TD which may help people better understand what a Technical Director
 is.&lt;/p&gt;
 
-&lt;p&gt;First, you may hear this term and immediately put it up in the role of a &amp;quot;director&amp;quot;.  Though the status of a TD may not be quite up there in the 
-industry ladder, the idea is fairly similar.  Just as a director makes decisions and chooses the paths the film decides to take, a TD&amp;#39;s role involves
+&lt;p&gt;First, you may hear this term and immediately put it up in the role of a “director”.  Though the status of a TD may not be quite up there in the 
+industry ladder, the idea is fairly similar.  Just as a director makes decisions and chooses the paths the film decides to take, a TD’s role involves
 making decisions and choosing the path of the technical workflow.  Now, this role can vary to different specifications.  I will talk mainly about
 the TD aspect in the pipeline development as I have most knowledge in this area.&lt;/p&gt;
 
-&lt;p&gt;As a friend and co-worker once said, a TD&amp;#39;s role is to make the lives of everyone else in the production easier.  Just as technology improves the 
+&lt;p&gt;As a friend and co-worker once said, a TD’s role is to make the lives of everyone else in the production easier.  Just as technology improves the 
 workflow of our lives, so must our roles as TDs improve the workflow of the studio.  Now a question that make come up is how do we improve the workflow?
 There are many things that are involved to improving the workflow of the artist, the studio, and ourselves as TDs.&lt;/p&gt;
 
 &lt;p&gt;I will talk in my future posts about things that I have learend that I either wished I learned earlier or know will be useful in any case for any
 aspiring TDs out there looking to fulfill their dream and create.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>A New Beginning</title>
-   <link href="munk801@github.io//posts/2013/08/12/new-beginning/"/>
-   <updated>2013-08-12T00:00:00-06:00</updated>
-   <id>munk801@github.io/posts/2013/08/12/new-beginning</id>
-   <content type="html">&lt;p&gt;This is definitely the start of something new and fun.  I have so many ideas and was once
-told that only a fool wouldn&amp;#39;t write their ideas down and share them with the world.  So,
+
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>A New Beginning</title>
+        <link href="http://localhost:4000/posts/new-beginning/"/>
+        <updated>2013-08-12T00:00:00-07:00</updated>
+        <id>http://localhost:4000/posts/new-beginning</id>
+        <author>
+					<name>Stephen Lu</name>
+					<uri>http://localhost:4000/</uri>
+					<email>munk801@gmail.com</email>
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;This is definitely the start of something new and fun.  I have so many ideas and was once
+told that only a fool wouldn’t write their ideas down and share them with the world.  So,
 this is the start of that.  I am starting this off by just introducing myself.  My name
 is Stephen Lu.  I am currently a Pipeline Tools Technical Director at Reel FX Animation
 Studios.  I am currently located in Dallas and loving the journey I am on.  I am constantly
@@ -436,12 +560,13 @@ this industry is, you have to keep your head up and know that your passion and m
 will be the driving force through this.  So with that, I will hope to bring any knowledge
 I learn to help better this generation all around us.  Let the battle begin!&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I&amp;#39;m
+&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
 &lt;a href=&quot;https://twitter.com/stephenmunklu&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
 
+
+        </content>
+    </entry>
+    
 </feed>
