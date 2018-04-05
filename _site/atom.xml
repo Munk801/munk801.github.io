@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>LineBreak</title>
+    <title>LOOK MA!</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.7.3</generator>
 		<icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
     <subtitle>Every new line has a purpose</subtitle>
     <link href="http://localhost:4000/atom.xml" rel="self"/>
     <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-    <updated>2018-04-04T17:53:39-07:00</updated>
+    <updated>2018-04-05T13:17:22-07:00</updated>
     <id>http://localhost:4000/</id>
     <author>
 			<name>Stephen Lu</name>

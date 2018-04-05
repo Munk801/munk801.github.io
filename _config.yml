@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: LineBreak
+title: LOOK MA! 
 description: Every new line has a purpose
 logo: # 120x120 px default image used for Twitter summary card
 teaser: default.png # 400x250 px default teaser image used in image archive grid
@@ -16,7 +16,7 @@ sass:
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: pygments
-gems:
+plugins:
   - jekyll-sitemap
 
 

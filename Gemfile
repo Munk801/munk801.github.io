@@ -1,7 +1,7 @@
 # Skinny Bones Gemfile
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", '~> 3.7.3'
 gem "jekyll-sitemap"
 gem "sass"
 gem "bourbon"
